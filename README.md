@@ -19,7 +19,7 @@ I build **end-to-end intelligent applications**:
 
 ## 🧩 Problem Solving
 
-- ✅ Solved **200+ problems on LeetCode**  
+- ✅ Solved **300+ problems on LeetCode**  
 - 📌 Strong grasp of **DSA patterns & optimization**  
 - ⚡ Consistent problem-solving practice  
 
